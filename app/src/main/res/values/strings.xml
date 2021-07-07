@@ -1,31 +1,86 @@
 <resources>
-    <string name="app_name">Online Rehab</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
+    <string name="app_name">OnlineRehab</string>
     <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_tools">Tools</string>
-    <string name="menu_share">Share</string>
-    <string name="menu_send">Send</string>
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+
     <string name="about_us">About Us</string>
-    <string name="social_media">Social Media</string>
-    <string name="sign_up">Sign Up</string>
+    <string name="social_media">Psy Login</string>
     <string name="login">Login</string>
-    <string name="online_rehab">Online Rehab</string>
-    <string name="title_activity_login">Sign in</string>
-    <string name="title_activity_sign_up">Sign Up</string>
-    <string name="enter_email_address">Enter Email Address</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_email">Enter Email</string>
     <string name="enter_password">Enter Password</string>
-    <string name="sigu_up">Sign Up</string>
-    <string name="enter_e">Enter Email</string>
-    <string name="enter_pa">Enter Password</string>
-    <string name="login0">Login</string>
-    <string name="new_user">I Dont Have An Account</string>
-    <string name="text_go_to_login">Already Have An Account? Login</string>
+    <string name="i_don_t_have_an_account">I Don\'t Have An Account</string>
+    <string name="title_activity_sign_up">Online Rehab</string>
+    <string name="title_activity_register">Online Rehab</string>
+    <string name="please_fill">Please Fill The Following Information</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="other_drugs">Other Drugs:</string>
+    <string name="drug">Drug:</string>
+    <string name="drug_addicted_to">Drug Addicted To</string>
+    <string name="specify_other_drugs_used">Specify Other Drugs Used (Optional)</string>
+    <string name="duration_used">Duration Used:</string>
+    <string name="duration_you_have_used_the_drug">Duration You Have Used the Drug</string>
+    <string name="your_current_location">Your Current Location</string>
+    <string name="enter_date_of_birth">Enter Date Of Birth</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="save_info">Save Info</string>
+
+    <string name="title_activity_login2">Online Rehab</string>
+    <string name="home_page">Home Page</string>
+    <string name="login_page">Login Page</string>
+    <string name="registration_page">Registration Page</string>
+
+    <string name="location">Location:</string>
+    <string name="gender">Gender:</string>
+    <string name="d_o_b">D.O.B:</string>
+
+    <string name="sign_up_page">Sign Up</string>
+    <string name="i_already_have_an_account">I already Have an Account</string>
     <string name="confirm_password">Confirm Password</string>
-    <string name="title_activity_user_profile">User Profile</string>
+    <string name="sign_up_page2">Sign Up Page</string>
+    <string name="enter_email_address">Enter Email Address</string>
+
+    <string name="title_activity_chat">Chat</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="nav_header_title">Online Rehab</string>
+    <string name="nav_header_subtitle">Francis Nganga</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="about"> This project is an android based application designed by Francis Karanja Nganga to provide rehabilitation assistance 
+        to drug addicts. Addicts are connected to Psychologists and Counselors anonymously for counselling services. 
+        If you are looking for an escape from drug addiction..,sign up and lets fight drug addiction together.</string>
+
+    <string name="menu_home">Profile</string>
+    <string name="menu_gallery">Forum</string>
+    <string name="menu_slideshow">Chats</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_about2">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="profile_photo">profile Photo</string>
+    <string name="phone">Phone:</string>
+    <string name="drug_in_use">Drug In Use:</string>
+    <string name="user_id">User Id:</string>
+    <string name="logout">LOGOUT</string>
+    <string name="title_activity_psy_list">Psy List</string>
+    <string name="username">Username</string>
+    <string name="speciality">Speciality</string>
+    <string name="title_activity_message">Message Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_addict_messages">Addict Messages</string>
+    <string name="title_activity_reply_addict">Reply Addict</string>
 </resources>

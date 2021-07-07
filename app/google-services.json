@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "346115200535",
-    "firebase_url": "https://online-rehab-29098.firebaseio.com",
-    "project_id": "online-rehab-29098",
-    "storage_bucket": "online-rehab-29098.appspot.com"
+    "project_number": "498515729303",
+    "firebase_url": "https://onlinerehab-eeda8.firebaseio.com",
+    "project_id": "onlinerehab-eeda8",
+    "storage_bucket": "onlinerehab-eeda8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:346115200535:android:b9238c47775083268cee52",
+        "mobilesdk_app_id": "1:498515729303:android:7b8cb6a3c235bf282e82d2",
         "android_client_info": {
-          "package_name": "com.frank.onlinerehab"
+          "package_name": "com.example.onlinerehab"
         }
       },
       "oauth_client": [
         {
-          "client_id": "346115200535-jn1v0quvnt32vhgvg3ilf0195ak0rll4.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.frank.onlinerehab",
-            "certificate_hash": "04c5087db004d77b5222d0c345c966da4c6f23db"
-          }
-        },
-        {
-          "client_id": "346115200535-99o24imlfiakuph799i5hpmp35i1sjpp.apps.googleusercontent.com",
+          "client_id": "498515729303-m88051upd00756jvu8cdl2hip1icf9mo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDp_dNpYm2PAeCf_4EGFiHqj-fcesG3O_0"
+          "current_key": "AIzaSyBrJGIHjaDX_qlPf9c0u3bTXNyvm6mWPyo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "346115200535-99o24imlfiakuph799i5hpmp35i1sjpp.apps.googleusercontent.com",
+              "client_id": "498515729303-m88051upd00756jvu8cdl2hip1icf9mo.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
